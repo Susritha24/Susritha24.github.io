@@ -1,3 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway:300,400';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,600,300';
+@import "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css";
 .jumbotron {
   position:relative;
   overflow:hidden;
@@ -28,6 +31,8 @@ img.blur {
 	-webkit-filter: blur(4px);
 	filter: blur(4px);
   filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='4');
+  
+
 
 }
 .how-section1{
